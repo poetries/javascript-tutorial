@@ -1,7 +1,4 @@
-#### JavaScript基础
----
-
-##### JavaScript
+#### JavaScript
 ---
 
 - [JavaScript Promise迷你书（中文版）](http://liubin.org/promises-book/)
@@ -17,17 +14,17 @@
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
 
-##### ES2015(ES6)
+#### ES2015(ES6)
 ---
 
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 - [EcmaScript6 全规范（含node） -ouvens](https://github.com/ouvens/es6-code-style-guide)
 - [30分钟掌握ES6/ES2015核心内容（上）](https://segmentfault.com/a/1190000004365693)
 - [30分钟掌握ES6/ES2015核心内容（下）](https://segmentfault.com/a/1190000004368132)
-
+- [ES6/7 Cheat Sheet](https://github.com/ccforward/cc/issues/49)
 
 #### TypeScript
----
+
 - [TypeScript语法](https://zhongsp.gitbooks.io/typescript-handbook/content/)
 
 #### NodeJS
@@ -44,17 +41,17 @@
 ---
 
 ##### Babel
----
+
 
 - [Babel 入门教程](http://www.ruanyifeng.com/blog/2016/01/babel.html)
 
 ##### Bower
----
+
 
 - [Day 1: Bower —— 管理你的客户端依赖关系](https://segmentfault.com/a/1190000000349555#articleHeader6)
 
 ##### Gulp
----
+
 
 - [Gulp不完全入门教程](https://github.com/dwqs/blog/issues/23)
 - [Gulp 学习总结](http://www.cnblogs.com/morong/p/4469637.html)
