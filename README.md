@@ -33,6 +33,8 @@
 #### NodeJS
 ---
 
+- [NodeSchool--学习Node的好地方](https://nodeschool.io/zh-cn/)
+- [node.js中文资料导航](https://github.com/poetries/mywiki/issues/4)
 - [七天学会NodeJS -Nanqiao Deng](https://nqdeng.github.io/7-days-nodejs)
 - [Node入门到精通 i5ting](https://i5ting.github.io/wechat-dev-with-nodejs/)
 - [高可用架构专用《全栈工程师之路-Node.js》 i5ting](https://github.com/i5ting/nodejs-fullstack)
@@ -134,8 +136,6 @@
 
 - [阮一峰-全栈工程师培训材料](https://github.com/ruanyf/jstraining)
 - [Growth - 陪你成为顶尖开发者](https://github.com/phodal/growth)
-- [NodeSchool--学习Node的好地方](https://nodeschool.io/zh-cn/)
-- [node.js中文资料导航](https://github.com/poetries/mywiki/issues/4)
 - [freecodecamp](https://freecodecamp.cn)
 
 
