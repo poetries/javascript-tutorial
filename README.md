@@ -134,6 +134,7 @@
 - [阮一峰-全栈工程师培训材料](https://github.com/ruanyf/jstraining)
 - [Growth - 陪你成为顶尖开发者](https://github.com/phodal/growth)
 - [freecodecamp](https://freecodecamp.cn)
+- [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)
 
 
 完善中....
